@@ -1,1 +1,1 @@
-# figma-novo
+# Figma
